@@ -53,3 +53,25 @@
 
 ---
 *Last updated: May 2026*
+Sales Performance Report 📊
+
+A professional Sales Performance Dashboard created using Microsoft Power BI to analyze and visualize business sales data.
+
+🔹 Features
+Sales overview dashboard
+Revenue and profit analysis
+Monthly sales trends
+Top-performing products
+Regional sales comparison
+Interactive data visualizations
+🔹 Tools Used
+Microsoft Power BI
+🔹 Objectives
+Monitor business performance
+Generate meaningful insights from sales data
+Improve decision-making through visualization
+Track KPIs and sales growth
+🔹 Author
+
+Abdul Qadeer
+Data Analyst
